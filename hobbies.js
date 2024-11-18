@@ -1,5 +1,5 @@
 const hobbiesList = (...hobbies) => {
-  console.log(`i miei hobbies sono: ${hobbies}`);
+  // console.log(`i miei hobbies sono: ${hobbies}`);
   return { hobbies };
 };
 
