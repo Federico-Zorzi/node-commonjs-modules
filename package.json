@@ -2,11 +2,11 @@
   "name": "commonjs-modules",
   "version": "1.0.0",
   "description": "progetto per persone e hobby",
-  "main": "server.js",
+  "main": "people.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev": "node --watch server.js"
+    "start": "node people.js",
+    "dev": "node --watch people.js"
   },
   "author": "Federico Zorzi",
   "license": "ISC"
